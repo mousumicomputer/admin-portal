@@ -1,1 +1,1 @@
-# dmin-portal
+# admin-portal
